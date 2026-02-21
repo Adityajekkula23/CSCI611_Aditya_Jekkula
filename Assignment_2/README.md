@@ -185,5 +185,5 @@ All code cells in both notebooks were fully executed in Google Colab with a T4 G
 ## Contact
 
 **Aditya Jekkula**  
-CSCI 611 — Deep Learning  
+CSCI 611 — Applied Machine Learning
 California State University, Chico
