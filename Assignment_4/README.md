@@ -2,7 +2,8 @@
 
 **Course:** CSCI611  
 **Topic:** Image Style Transfer Using Convolutional Neural Networks (Gatys et al., CVPR 2016)
-**Notebook:** https://drive.google.com/file/d/1vtZveaJPmOfyehnEz_lpqi4nQHVBAnmX/view?usp=sharing
+
+## please open it using the colab link:** https://drive.google.com/file/d/1vtZveaJPmOfyehnEz_lpqi4nQHVBAnmX/view?usp=sharing
 
 ---
 
